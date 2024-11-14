@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamReader_Practice_2_3_1_Rewrite", "StreamReader_Practice_2_3_1_Rewrite.csproj", "{1AFFC428-1309-4F63-851A-5EFC1BD701FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C6DFF2A-578A-4FAF-B4EA-3AD8B7F321AB}"
+	ProjectSection(SolutionItems) = preProject
+		Person.cs = Person.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFFC428-1309-4F63-851A-5EFC1BD701FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFFC428-1309-4F63-851A-5EFC1BD701FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFFC428-1309-4F63-851A-5EFC1BD701FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFFC428-1309-4F63-851A-5EFC1BD701FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB844B2-9F80-4B44-A517-7B80BF4D7088}
+	EndGlobalSection
+EndGlobal
